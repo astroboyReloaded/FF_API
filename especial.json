@@ -5,6 +5,6 @@
     "¡Agranda tu agua a 1L por $25 pesos más!"
   ],
   "price": "100",
-  "showAvailability": true,
+  "showAvailability": false,
   "availability": "9"
 }
